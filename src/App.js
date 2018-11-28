@@ -12,7 +12,7 @@ class App extends Component {
     return (
       <Provider store={ store }>
         <div className="App">          
-          <h1>I am Md. Al-Amin (This project is React-Redux)</h1>
+          <h1>Simple Project: Number Increase & Decrease Button Click Event</h1>
           <div class="container">
             <div class="card bg-light text-dark">
               <div class="card-body">
